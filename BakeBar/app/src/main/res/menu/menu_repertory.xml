@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/left_menu_coffee"
+            android:checked="false"
+            android:icon="@mipmap/ic_school_black_24dp"
+            android:title="@string/left_menu_coffee"/>
+
+        <item
+            android:id="@+id/left_menu_break"
+            android:checked="false"
+            android:icon="@mipmap/ic_school_black_24dp"
+            android:title="@string/left_menu_break"/>
+
+
+        <item
+            android:id="@+id/left_menu_cake"
+            android:checked="false"
+            android:icon="@mipmap/ic_dashboard_black_24dp"
+            android:title="@string/left_menu_cake"/>
+
+    </group>
+</menu>

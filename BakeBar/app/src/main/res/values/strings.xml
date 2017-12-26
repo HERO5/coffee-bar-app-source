@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Coffee Bar</string>
+    <string name="logo_coffee">COFFEE WORD</string>
+    <string name="logo_cake">CAKE WORD</string>
+    <string name="app_moto1">Only love and good food, </string>
+    <string name="app_moto2">can not be lived up to.</string>
+    <string name="main_module1">Today Best</string>
+    <string name="main_module2">Good Shop</string>
+    <string name="studio_module1">Hottest Videos</string>
+    <string name="studio_module2">Popular Menus</string>
+    <string name="view_more">View More</string>
+
+
+    <string name="checkin">Checkin</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_login">登录用户</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">输入你的手机号</string>
+    <string name="prompt_password">输入你的密码</string>
+    <string name="prompt_password_again">输入你的密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">手机号无效</string>
+    <string name="error_invalid_password">密码太短了</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">该项必须填</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_register">还没有帐号?</string>
+    <string name="action_into_main">开启美好食光</string>
+    <string name="action_re_password">再次输入密码</string>
+    <string name="prompt_nickname">输入你的昵称</string>
+    <string name="user_id">userId</string>
+</resources>
